@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2026 The LineageOS Project
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--
+        Optional placeholders replaced at runtime:
+          {device} - Device name
+          {type} - Build type
+          {incr} - Incremental version
+    -->
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/kmiit/ota/pista/update.json</string>
+    <string name="menu_changelog_url" translatable="false">https://raw.githubusercontent.com/kmiit/ota/pista/changelog.json</string>
+</resources>
